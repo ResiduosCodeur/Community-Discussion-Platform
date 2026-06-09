@@ -97,4 +97,4 @@ At `http://localhost:5000/users` you should see the data <br>
 <strong>-> setup working!</strong>
 
 <h2>Policy for making changes </h2>
-Always create your own branch and commit changes in it before merging it into the main branch to avoid clashes within same branch
+Always create your own branch and commit changes in it before merging it into the main branch
